@@ -1,0 +1,44 @@
+.metadata
+.vscode
+
+/ADC/Debug/*
+/ADC/.settings/
+/ADC/.cproject
+/ADC/.project
+/ADC/ADC Debug.launch
+/ADC/STM32F429ZITX_FLASH.ld
+/ADC/STM32F429ZITX_RAM.ld
+
+/Hola_Mundo/Debug/
+/Hola_Mundo/.settings/
+/Hola_Mundo/.cproject
+/Hola_Mundo/.project
+/Hola_Mundo/Hola_Mundo Debug.launch
+/Hola_Mundo/STM32F429ZITX_FLASH.ld
+/Hola_Mundo/STM32F429ZITX_RAM.ld
+
+/NVIC_SysTick/Debug/
+/NVIC_SysTick/.settings/
+/NVIC_SysTick/.cproject
+/NVIC_SysTick/.project
+/NVIC_SysTick/NVIC_SysTick Debug.launch
+/NVIC_SysTick/STM32F429ZITX_FLASH.ld
+/NVIC_SysTick/STM32F429ZITX_RAM.ld
+
+/Timer/Debug/
+/Timer/.settings/
+/Timer/.cproject
+/Timer/.project
+/Timer/Timer Debug.launch
+/Timer/STM32F429ZITX_FLASH.ld
+/Timer/STM32F429ZITX_RAM.ld
+
+/USART/Debug/
+/USART/.settings/
+/USART/.cproject
+/USART/.project
+/USART/USART Debug.launch
+/USART/STM32F429ZITX_FLASH.ld
+/USART/STM32F429ZITX_RAM.ld
+
+/hola_hal/*

@@ -41,4 +41,28 @@
 /USART/STM32F429ZITX_FLASH.ld
 /USART/STM32F429ZITX_RAM.ld
 
+/PWM/Debug/
+/PWM/.settings/
+/PWM/.cproject
+/PWM/.project
+/PWM/PWM Debug.launch
+/PWM/STM32F429ZITX_FLASH.ld
+/PWM/STM32F429ZITX_RAM.ld
+
+/DMA/Debug/
+/DMA/.settings/
+/DMA/.cproject
+/DMA/.project
+/DMA/DMA Debug.launch
+/DMA/STM32F429ZITX_FLASH.ld
+/DMA/STM32F429ZITX_RAM.ld
+
+/I2C/Debug/
+/I2C/.settings/
+/I2C/.cproject
+/I2C/.project
+/I2C/I2C Debug.launch
+/I2C/STM32F429ZITX_FLASH.ld
+/I2C/STM32F429ZITX_RAM.ld
+
 /hola_hal/*

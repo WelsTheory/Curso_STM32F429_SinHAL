@@ -27,5 +27,9 @@ void ADC_EnableNVIC(void);
 
 void ADC_DisableNVIC(void);
 
+/** ADC MULTICANAL - DMA **/
+void ADC_Multicanal(void);
+
+void ADC_DMAConfig(uint32_t *pData, uint32_t length, uint32_t base);
 
 #endif /* INC_ADC_H_ */

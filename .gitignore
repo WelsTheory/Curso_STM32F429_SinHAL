@@ -65,4 +65,12 @@
 /I2C/STM32F429ZITX_FLASH.ld
 /I2C/STM32F429ZITX_RAM.ld
 
+/SPI/Debug/
+/SPI/.settings/
+/SPI/.cproject
+/SPI/.project
+/SPI/SPI Debug.launch
+/SPI/STM32F429ZITX_FLASH.ld
+/SPI/STM32F429ZITX_RAM.ld
+
 /hola_hal/*

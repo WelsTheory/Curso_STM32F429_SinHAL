@@ -2,6 +2,8 @@
 
 _Bienvenido al repositorio del curso de STM32!!!_
 
+![Imagen](/Imagen_Repositorio/Bienvenida_STM32.png)
+
 _El repositorio de este curso de STM32 sin HAL contiene todo el material necesario para seguir las clases y llevar a cabo los proyectos correspondientes. En este repositorio se pueden encontrar los códigos de cada una de las lecciones, así como todos los archivos y recursos necesarios para la implementación de los mismos._
 
 _Además, los archivos en el repositorio están organizados en carpetas por temas y por proyectos, lo que permite una fácil navegación y localización de los archivos necesarios para cada proyecto. Los códigos se encuentran escritos en lenguaje C, y se han desarrollado de forma clara y concisa para facilitar su comprensión._
@@ -41,11 +43,11 @@ _Que material necesitas para desarrollar el curso:_
 * [Pinout NUCLEO-F401RE](https://os.mbed.com/platforms/ST-Nucleo-F401RE/) - Imagen de los pines de la Núcleo
 
 ## Indice
-* [CLASE 1: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/Hola_Mundo) Hola Mundo 
-* [CLASE 2 y Clase 3: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/NVIC_SysTick) NVIC y SysTick
-* [CLASE 4: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/Timer) TIMER
-* [CLASE 5: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/USART) USART 
-* [CLASE 6: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/ADC) ADC
-* [CLASE 7: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/PWM) PWM
-* [CLASE 8: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/I2C) I2C
-* [CLASE 9: ](https://github.com/WelsTheory/Curso_STM32F429_SinHAL/tree/main/DMA) DMA
+* [CLASE 1: ](Hola_Mundo) Hola Mundo 
+* [CLASE 2 y Clase 3: ](NVIC_SysTick) NVIC y SysTick
+* [CLASE 4: ](/Timer/) TIMER
+* [CLASE 5: ](/USART) USART 
+* [CLASE 6: ](ADC) ADC
+* [CLASE 7: ](PWM) PWM
+* [CLASE 8: ](I2C) I2C
+* [CLASE 9: ](DMA) DMA
